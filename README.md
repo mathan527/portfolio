@@ -8,7 +8,7 @@ A sleek, modern personal developer portfolio website built to showcase projects,
 
 ## 🖼 Screenshot
 
-![Portfolio Screenshot](./screenshot.png)
+![Portfolio Screenshot](./screenshot.jpg)
 
 > Replace screenshot.png with an actual screenshot of your portfolio homepage.
 
